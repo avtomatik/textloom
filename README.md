@@ -3,6 +3,7 @@
 [![Lint](https://github.com/avtomatik/textloom/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/avtomatik/textloom/actions/workflows/ci.yml)
 [![Python Version](https://img.shields.io/pypi/pyversions/textloom)](https://pypi.org/project/textloom/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/textloom?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/textloom)
 
 Lightweight text processing utilities for Python.
 
